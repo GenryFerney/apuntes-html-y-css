@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    align-items: center;
+}
+.p{
+    text-align: center;
+    align-items: center;
+    
+}
+.img{
+    display: flex;
+    display: block;
+    margin: auto;
+    width: 60%;
+    height: 60%;
+}
+.p1{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
